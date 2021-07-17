@@ -1,0 +1,1 @@
+./algo -e "provider=gce" -e "gce_credentials_file=$(pwd)/terraform/gcp/configs/credentials.json"
